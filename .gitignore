@@ -54,3 +54,6 @@ jspm_packages/
 uploads/
 temp/
 pdf-outputs/
+
+# Agent configuration
+.agent/
